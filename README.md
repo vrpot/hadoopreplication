@@ -26,8 +26,8 @@ The Hadoop Replication System is a robust solution designed to replicate data(HD
 
 1. Clone the repository:
    ```
-   git clone https://github.com/vrpot/hadoop-replication-system.git
-   cd hadoop-replication-system
+   git clone https://github.com/vrpot/hadoopreplication.git
+   cd hadoopreplication
    ```
 
 2. Update the `application.properties` file in `src/main/resources` with your specific configuration:
