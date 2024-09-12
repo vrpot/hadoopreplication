@@ -109,8 +109,8 @@ Contributions to the Hadoop Replication System are welcome. Please follow these 
 
 ## License
 
-Apache-2.0
-
+GNU GENERAL PUBLIC LICENSE
+                       Version 3, 29 June 2007
 ## Contact
 
 For any queries or support, please contact contact@xogtatech.com.
